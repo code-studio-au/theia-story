@@ -28,5 +28,9 @@ assets, zone/editor implementation notes and NPC/character system documentation
 remain in the MMO repository.
 
 Local Copilot caches, agent skill symlinks and ignored private conversations
-were not imported or deleted; they remain in the original checkout. No remote
-repository was created and nothing was pushed during this local migration.
+were not imported or deleted; they remain in the original checkout. The initial
+migration was local. On 27 November 2026, the creator subsequently authorized
+committing and pushing both repositories. This repository will be published as
+private at [code-studio-au/theia-story](https://github.com/code-studio-au/theia-story)
+on `main`; the MMO migration uses its existing `feat/website-character-roster`
+branch.
