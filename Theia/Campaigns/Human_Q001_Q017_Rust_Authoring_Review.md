@@ -1,6 +1,6 @@
 # Human Q001–Q017 — Rust Quest Authoring Review
 
-**Status: content-authoring review; not an executable catalogue.** Narrative authority: [Human 1–80 Canonical Campaign](Human_1_80_Canonical_Campaign.md). Working inventory: [Current Quest Authoring Manifest](Human_1_80_Current_Quest_Authoring_Manifest.json). Runtime contract: [Quest Engine Agreement](../../../theia-mmo/docs/QUEST_ENGINE.md). Codex owns runtime and persistence integration.
+**Status: content-authoring review; not an executable catalogue.** Narrative authority: [Human 1–80 Canonical Campaign](Human_1_80_Canonical_Campaign.md). Working inventory: [Current Quest Authoring Manifest](Human_1_80_Current_Quest_Authoring_Manifest.json). Runtime contract: [Quest Engine Agreement](../../../theia-mmo/docs/gameplay/QUEST_ENGINE.md). Codex owns runtime and persistence integration.
 
 ## Hard boundaries
 

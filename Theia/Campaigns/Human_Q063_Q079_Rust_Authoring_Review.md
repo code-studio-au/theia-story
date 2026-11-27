@@ -1,6 +1,6 @@
 # Human Q063–Q079 — Rust Quest Authoring Review
 
-**Status: Needs Review — content-authoring proposals, not executable quest data.** Narrative authority: [Human 1–80 Canonical Campaign](Human_1_80_Canonical_Campaign.md). Single working inventory: [Human 1–80 Current Quest Authoring Manifest](Human_1_80_Current_Quest_Authoring_Manifest.json). Runtime implementation agreement: [Quest Engine](../../../theia-mmo/docs/QUEST_ENGINE.md). **17 quests reviewed; none removed or renumbered.**
+**Status: Needs Review — content-authoring proposals, not executable quest data.** Narrative authority: [Human 1–80 Canonical Campaign](Human_1_80_Canonical_Campaign.md). Single working inventory: [Human 1–80 Current Quest Authoring Manifest](Human_1_80_Current_Quest_Authoring_Manifest.json). Runtime implementation agreement: [Quest Engine](../../../theia-mmo/docs/gameplay/QUEST_ENGINE.md). **17 quests reviewed; none removed or renumbered.**
 
 ## Implementation boundary
 

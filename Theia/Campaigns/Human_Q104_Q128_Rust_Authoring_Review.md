@@ -1,6 +1,6 @@
 # Human Q104–Q128 — Rust Quest Authoring Review
 
-**Status: Needs Review — proposals, not executable definitions.** Narrative authority: [Human 1–80 Canonical Campaign](Human_1_80_Canonical_Campaign.md). Single working quest inventory: [Human 1–80 Current Quest Authoring Manifest](Human_1_80_Current_Quest_Authoring_Manifest.json). Runtime contract: [Quest Engine](../../../theia-mmo/docs/QUEST_ENGINE.md).
+**Status: Needs Review — proposals, not executable definitions.** Narrative authority: [Human 1–80 Canonical Campaign](Human_1_80_Canonical_Campaign.md). Single working quest inventory: [Human 1–80 Current Quest Authoring Manifest](Human_1_80_Current_Quest_Authoring_Manifest.json). Runtime contract: [Quest Engine](../../../theia-mmo/docs/gameplay/QUEST_ENGINE.md).
 
 **25 quests reviewed. No quests deleted, merged, renumbered or assigned runtime IDs.** Current Rust catalogue supports ordered stages, `all/any/at_least` completion and only `kill` and semantic `npc_interaction` objective kinds. Pure journal and PostgreSQL Store are qualified separately, but expanded journal adoption into the normal World/client flow remains pending. Object inspection, exploration, defense, encounter outcomes, world phasing, branching and Luau remain planned. The 32-quest limit is a development safeguard, not a production architecture decision.
 

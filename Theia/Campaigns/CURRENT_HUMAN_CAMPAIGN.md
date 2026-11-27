@@ -15,7 +15,7 @@ organizes campaign sources by purpose, not a competing authority hierarchy.
 5. **Working quest data:** [Current Quest Authoring Manifest](Human_1_80_Current_Quest_Authoring_Manifest.json) — **one consolidated 184-quest / 685-stage working inventory** with typed objectives, source editorial candidates, explicit blockers, and no inferred hard level gates. This is **not** executable Rust data. The nine older stage JSON files have been verified against the manifest and removed from the active tree; Git history preserves them. Edit only the consolidated manifest.
 6. **Dialogue:** [Branching Key Scenes and Reveal-Gate Reference](Human_1_80_Key_Scenes_Branching_Dialogue.md) and per-level NPC dialogue scripts. Dialogue is first pass and subject to reveal-gate review.
 7. **Encounters:** [Encounter Barks and Cinematic Timing](Human_1_80_Encounter_Barks_and_Cinematic_Timing.md) — authored design, not integrated encounter code.
-8. **Actual implementation authority:** existing Rust/Bevy code and [Quest Objectives Foundation](../../../theia-mmo/docs/QUEST_OBJECTIVES_FOUNDATION.md). Rust validates quest progress and authoritative events; Luau is optional for unusual scripted behavior and not confirmed integrated. [Rust–Luau Boundary](Human_Rust_Luau_Quest_Scripting_Boundary.md) is a proposal.
+8. **Actual implementation authority:** existing Rust/Bevy code and [Quest Objectives Foundation](../../../theia-mmo/docs/gameplay/QUEST_OBJECTIVES_FOUNDATION.md). Rust validates quest progress and authoritative events; Luau is optional for unusual scripted behavior and not confirmed integrated. [Rust–Luau Boundary](Human_Rust_Luau_Quest_Scripting_Boundary.md) is a proposal.
 
 ## What is approved versus not
 

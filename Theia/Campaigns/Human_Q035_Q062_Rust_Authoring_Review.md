@@ -1,6 +1,6 @@
 # Human Q035–Q062 — Rust Quest Authoring Review
 
-**Status: Needs Review — authoring decisions proposed, not applied to executable content.** Narrative authority: [Human 1–80 Canonical Campaign](Human_1_80_Canonical_Campaign.md). Sole structured working inventory: [Current Quest Authoring Manifest](Human_1_80_Current_Quest_Authoring_Manifest.json). Implementation agreement: [Quest Engine](../../../theia-mmo/docs/QUEST_ENGINE.md).
+**Status: Needs Review — authoring decisions proposed, not applied to executable content.** Narrative authority: [Human 1–80 Canonical Campaign](Human_1_80_Canonical_Campaign.md). Sole structured working inventory: [Current Quest Authoring Manifest](Human_1_80_Current_Quest_Authoring_Manifest.json). Implementation agreement: [Quest Engine](../../../theia-mmo/docs/gameplay/QUEST_ENGINE.md).
 
 ## Scope and engine constraints
 

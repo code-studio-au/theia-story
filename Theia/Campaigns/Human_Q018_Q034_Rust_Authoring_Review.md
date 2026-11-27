@@ -1,6 +1,6 @@
 # Human Q018–Q034 — Rust Quest Authoring Review
 
-**Status: Needs Review — planning analysis, not executable content.** [Current manifest](Human_1_80_Current_Quest_Authoring_Manifest.json) is the single working quest inventory; [canonical campaign](Human_1_80_Canonical_Campaign.md) governs narrative; [Codex quest engine agreement](../../../theia-mmo/docs/QUEST_ENGINE.md) governs implemented runtime features. This review makes **no** changes to the 184 quest entries.
+**Status: Needs Review — planning analysis, not executable content.** [Current manifest](Human_1_80_Current_Quest_Authoring_Manifest.json) is the single working quest inventory; [canonical campaign](Human_1_80_Canonical_Campaign.md) governs narrative; [Codex quest engine agreement](../../../theia-mmo/docs/gameplay/QUEST_ENGINE.md) governs implemented runtime features. This review makes **no** changes to the 184 quest entries.
 
 ## Engine constraints (2 November 2026)
 
@@ -62,4 +62,4 @@ Current Rust catalogue supports versioned quest definitions, prerequisites, orde
 
 ## Implementation handoff
 
-Do **not** export this review as executable JSON or change Codex's engine code. After editorial approval, apply decisions to the **single current manifest** and update the canonical narrative only where needed. Before deployment, validate the new catalogue registry and content-version migration policy against `docs/QUEST_ENGINE.md`.
+Do **not** export this review as executable JSON or change Codex's engine code. After editorial approval, apply decisions to the **single current manifest** and update the canonical narrative only where needed. Before deployment, validate the new catalogue registry and content-version migration policy against `docs/gameplay/QUEST_ENGINE.md`.

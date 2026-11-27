@@ -66,7 +66,7 @@ The Markdown review recorded 184 campaign entries, 684 unique stage IDs and 684 
 - Keep Q128's early expedition staging distinct from Q154's final assault preparation. Any further rename remains a proposal.
 - Preserve the canonical Q156 transition and Q176–Q181 fatal-correction order. Exact events and revelation timing belong in the [canonical campaign](Human_1_80_Canonical_Campaign.md), not a second account here.
 - Historical evidence, current possession, consumption, atomic rewards, retries and credit scope require quest-specific authoring under this contract.
-- Consult the existing [Quest Engine agreement](../../../theia-mmo/docs/QUEST_ENGINE.md) for actual supported capabilities before conversion. Do not infer acceptance, branching, party sharing, phasing, exploration or Luau support from these authoring plans; development limits are not permanent campaign limits.
+- Consult the existing [Quest Engine agreement](../../../theia-mmo/docs/gameplay/QUEST_ENGINE.md) for actual supported capabilities before conversion. Do not infer acceptance, branching, party sharing, phasing, exploration or Luau support from these authoring plans; development limits are not permanent campaign limits.
 
 ## Example schema (illustrative, not a deployed runtime definition)
 

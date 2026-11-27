@@ -1,6 +1,6 @@
 # Theia — Rust Quest Authority / Luau Script Boundary (Proposed ADR)
 
-**Status: Proposed for approval, not implemented.** The project is a Rust/Bevy MMO. Existing Rust objective progress is documented in [Quest Objectives Foundation](../../../theia-mmo/docs/QUEST_OBJECTIVES_FOUNDATION.md). Story authority is [Human 1–80 Canonical Campaign](Human_1_80_Canonical_Campaign.md). This document reconciles narrative authoring with the actual implementation; it does not claim Luau is already integrated.
+**Status: Proposed for approval, not implemented.** The project is a Rust/Bevy MMO. Existing Rust objective progress is documented in [Quest Objectives Foundation](../../../theia-mmo/docs/gameplay/QUEST_OBJECTIVES_FOUNDATION.md). Story authority is [Human 1–80 Canonical Campaign](Human_1_80_Canonical_Campaign.md). This document reconciles narrative authoring with the actual implementation; it does not claim Luau is already integrated.
 
 ## Responsibilities
 

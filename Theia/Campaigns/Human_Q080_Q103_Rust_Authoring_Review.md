@@ -1,6 +1,6 @@
 # Human Q080–Q103 — Rust Quest Authoring Review
 
-**Status: Needs Review — proposed content corrections, not executable Rust quest definitions.** [Canonical Human Campaign](Human_1_80_Canonical_Campaign.md) governs narrative. [Current Authoring Manifest](Human_1_80_Current_Quest_Authoring_Manifest.json) remains the sole working quest inventory. [Codex Quest Engine Agreement](../../../theia-mmo/docs/QUEST_ENGINE.md) governs current capabilities.
+**Status: Needs Review — proposed content corrections, not executable Rust quest definitions.** [Canonical Human Campaign](Human_1_80_Canonical_Campaign.md) governs narrative. [Current Authoring Manifest](Human_1_80_Current_Quest_Authoring_Manifest.json) remains the sole working quest inventory. [Codex Quest Engine Agreement](../../../theia-mmo/docs/gameplay/QUEST_ENGINE.md) governs current capabilities.
 
 **24 quests reviewed. No quest removed, renumbered, assigned a runtime ID, or changed in the manifest.** The Rust catalogue currently supports ordered stages, `all/any/at_least` completion, kill and semantic NPC-interaction objectives. Other kinds, cross-pack registry, content migration, party sharing, phasing and Luau remain planned. The qualified multi-quest journal/Store is not yet the normal live quest path.
 

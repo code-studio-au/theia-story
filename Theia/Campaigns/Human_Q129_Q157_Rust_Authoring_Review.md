@@ -1,6 +1,6 @@
 # Human Q129–Q157 — Rust Quest Authoring Review
 
-**Status: Needs Review — authoring proposals, not executable quest definitions.** [Canonical Human Campaign](Human_1_80_Canonical_Campaign.md) controls story; [Current Quest Authoring Manifest](Human_1_80_Current_Quest_Authoring_Manifest.json) is the sole working structured inventory; [Codex Quest Engine Agreement](../../../theia-mmo/docs/QUEST_ENGINE.md) controls implemented capabilities.
+**Status: Needs Review — authoring proposals, not executable quest definitions.** [Canonical Human Campaign](Human_1_80_Canonical_Campaign.md) controls story; [Current Quest Authoring Manifest](Human_1_80_Current_Quest_Authoring_Manifest.json) is the sole working structured inventory; [Codex Quest Engine Agreement](../../../theia-mmo/docs/gameplay/QUEST_ENGINE.md) controls implemented capabilities.
 
 **29 quests reviewed, none deleted, merged or renumbered.** The Rust catalogue currently supports ordered stages with `all/any/at_least` completion and only `kill` and semantic `npc_interaction` objectives. Pure journal and PostgreSQL Store are independently qualified, but expanded World/client adoption remains pending. Inspection, exploration, object use, defense, cinematics, world phasing, branching and Luau are planned. Development catalogue limits are not permanent production limits.
 
