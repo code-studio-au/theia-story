@@ -1,0 +1,1248 @@
+{
+  "schema_version": 1,
+  "migration_date": "2026-11-27",
+  "source_repository": "theia-mmo",
+  "source_commit": "464d29891f41fcc802dfd8df39e68c552880e890",
+  "source_prefix": "docs/story/",
+  "destination_repository": "theia-story",
+  "markdown_files": 201,
+  "supporting_json_files": 5,
+  "files": [
+    {
+      "source": "docs/story/DECISIONS.md",
+      "destination": "DECISIONS.md",
+      "source_sha256": "ad8d05f27b9a41348aeac2680d6d155690a2b71649a50cbc67a1faf80c1a5b27",
+      "destination_sha256": "2afe8884b0de7057f50e860e99a6b71571998c9c064479cbfa54a3d409dc5eca"
+    },
+    {
+      "source": "docs/story/IMPORT_MANIFEST.json",
+      "destination": "IMPORT_MANIFEST.json",
+      "source_sha256": "77e8d9de130c7d7a8dffb79b6705c7578c7456157b7884bd22f917cbdf0d4267",
+      "destination_sha256": "77e8d9de130c7d7a8dffb79b6705c7578c7456157b7884bd22f917cbdf0d4267"
+    },
+    {
+      "source": "docs/story/QUEST_AUTHORING_RECONCILIATION_REVIEW.md",
+      "destination": "QUEST_AUTHORING_RECONCILIATION_REVIEW.md",
+      "source_sha256": "f50a883b4448400fa0d1504cfc81be01146b708aacdbe91a8b87c68baa6a6219",
+      "destination_sha256": "f50a883b4448400fa0d1504cfc81be01146b708aacdbe91a8b87c68baa6a6219"
+    },
+    {
+      "source": "docs/story/README.md",
+      "destination": "README.md",
+      "source_sha256": "a55988edd28743d72e6230c8ec8715da2983a53cd67fc3873d7ce3d2c53bc36b",
+      "destination_sha256": "8069b1626a8f9a69bd62c2e232d9a2be44122379e7baf2475cdda11d4a84e6ac"
+    },
+    {
+      "source": "docs/story/STORY_CLEANUP_TRACKER.md",
+      "destination": "STORY_CLEANUP_TRACKER.md",
+      "source_sha256": "33c82f3514b989f79b0f3cf1b22cb452947132b0f79be5f0bf3a1da61b7119e8",
+      "destination_sha256": "33c82f3514b989f79b0f3cf1b22cb452947132b0f79be5f0bf3a1da61b7119e8"
+    },
+    {
+      "source": "docs/story/THEIA_AELARI_HOMELAND_SETTLEMENT_REGISTER.md",
+      "destination": "THEIA_AELARI_HOMELAND_SETTLEMENT_REGISTER.md",
+      "source_sha256": "d607b75131994812c4c00b15567fab9652e5f322afffe66ec6d7efb92bbf5fab",
+      "destination_sha256": "d607b75131994812c4c00b15567fab9652e5f322afffe66ec6d7efb92bbf5fab"
+    },
+    {
+      "source": "docs/story/THEIA_CHARACTER_ARCS.md",
+      "destination": "THEIA_CHARACTER_ARCS.md",
+      "source_sha256": "67087ab631af02eab80f715cefa2d3df422b7f3a5f1f41c7712aeaba878babeb",
+      "destination_sha256": "67087ab631af02eab80f715cefa2d3df422b7f3a5f1f41c7712aeaba878babeb"
+    },
+    {
+      "source": "docs/story/THEIA_DOCUMENTATION_GUIDE.md",
+      "destination": "THEIA_DOCUMENTATION_GUIDE.md",
+      "source_sha256": "86399e56252d723dba317fbd14cd52135605c2218ca3562747d91a5563821762",
+      "destination_sha256": "86399e56252d723dba317fbd14cd52135605c2218ca3562747d91a5563821762"
+    },
+    {
+      "source": "docs/story/THEIA_HUMAN_ACT_I_STORY.md",
+      "destination": "THEIA_HUMAN_ACT_I_STORY.md",
+      "source_sha256": "d168e6df82d02fc4fe9f9544c26a17161d953f4bc89e27bbb2c109c5e5021340",
+      "destination_sha256": "d168e6df82d02fc4fe9f9544c26a17161d953f4bc89e27bbb2c109c5e5021340"
+    },
+    {
+      "source": "docs/story/THEIA_HUMAN_HEARTLANDS_SETTLEMENT_REGISTER.md",
+      "destination": "THEIA_HUMAN_HEARTLANDS_SETTLEMENT_REGISTER.md",
+      "source_sha256": "62d17bffe920b29829fd4b084a7a8098048d3a376bfe7025d5dc8a8c90b9bc57",
+      "destination_sha256": "62d17bffe920b29829fd4b084a7a8098048d3a376bfe7025d5dc8a8c90b9bc57"
+    },
+    {
+      "source": "docs/story/THEIA_HUMAN_QUEST_REGISTER.md",
+      "destination": "THEIA_HUMAN_QUEST_REGISTER.md",
+      "source_sha256": "37ba7bf096a85dacfcf3839900dbe7515191c2479e09121475a607855a59bcd2",
+      "destination_sha256": "37ba7bf096a85dacfcf3839900dbe7515191c2479e09121475a607855a59bcd2"
+    },
+    {
+      "source": "docs/story/THEIA_INTERWOVEN_CHRONICLE.md",
+      "destination": "THEIA_INTERWOVEN_CHRONICLE.md",
+      "source_sha256": "2b79847e7125c624aef518c6f5782685297f70e9ebe9e856f50374e00addd882",
+      "destination_sha256": "2b79847e7125c624aef518c6f5782685297f70e9ebe9e856f50374e00addd882"
+    },
+    {
+      "source": "docs/story/THEIA_MEMORY_SCENES.md",
+      "destination": "THEIA_MEMORY_SCENES.md",
+      "source_sha256": "01e91786dba277d1a5976f961be558d74a01afa3fa79fe69edf4c4bb86f63ae8",
+      "destination_sha256": "01e91786dba277d1a5976f961be558d74a01afa3fa79fe69edf4c4bb86f63ae8"
+    },
+    {
+      "source": "docs/story/THEIA_MODERN_STORY_REVELATION_TIMELINE.md",
+      "destination": "THEIA_MODERN_STORY_REVELATION_TIMELINE.md",
+      "source_sha256": "d5ff07a611aa3c64e72f8fb48a90c8d4a1f6f4f48807f7b93969cc977ae9c77a",
+      "destination_sha256": "d5ff07a611aa3c64e72f8fb48a90c8d4a1f6f4f48807f7b93969cc977ae9c77a"
+    },
+    {
+      "source": "docs/story/THEIA_SOURCE_DECISION_RECOVERY.md",
+      "destination": "THEIA_SOURCE_DECISION_RECOVERY.md",
+      "source_sha256": "66df73ae089c018ffa2b2ffd55b19ab48ddd2b8c26e59b475a58dd80af280399",
+      "destination_sha256": "66df73ae089c018ffa2b2ffd55b19ab48ddd2b8c26e59b475a58dd80af280399"
+    },
+    {
+      "source": "docs/story/THEIA_WORLD_BIBLE.md",
+      "destination": "THEIA_WORLD_BIBLE.md",
+      "source_sha256": "cb12611b830233f0f4e15b4966271e1ebf1d9c1280f03d1cdf92057f8f82823d",
+      "destination_sha256": "cb12611b830233f0f4e15b4966271e1ebf1d9c1280f03d1cdf92057f8f82823d"
+    },
+    {
+      "source": "docs/story/THEIA_ZONE_POPULATION_FRAMEWORK.md",
+      "destination": "THEIA_ZONE_POPULATION_FRAMEWORK.md",
+      "source_sha256": "e9c09ffca5cce697b16adf1ea701456c503c26d153e13c34a932dc5b77dafcf4",
+      "destination_sha256": "e9c09ffca5cce697b16adf1ea701456c503c26d153e13c34a932dc5b77dafcf4"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Atlas.md",
+      "destination": "Theia/Atlas/Atlas.md",
+      "source_sha256": "84f8150447c2bf5da5a0bfc51f6e6a8e28e24a29c7d01489aca4d8f8d642a653",
+      "destination_sha256": "84f8150447c2bf5da5a0bfc51f6e6a8e28e24a29c7d01489aca4d8f8d642a653"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Enclaves/Oru'sava.md",
+      "destination": "Theia/Atlas/Enclaves/Oru'sava.md",
+      "source_sha256": "bb8cc543b785b0ae7630a5a50d8916ea6a69fa434529e65e7bb271e117991f2a",
+      "destination_sha256": "bb8cc543b785b0ae7630a5a50d8916ea6a69fa434529e65e7bb271e117991f2a"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Enclaves/Oth'irun.md",
+      "destination": "Theia/Atlas/Enclaves/Oth'irun.md",
+      "source_sha256": "4d4be05a4110d2d298c323b268fc13645c247592a7be6a566deaade2d6a2df50",
+      "destination_sha256": "4d4be05a4110d2d298c323b268fc13645c247592a7be6a566deaade2d6a2df50"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Enclaves/Soru'vaeth.md",
+      "destination": "Theia/Atlas/Enclaves/Soru'vaeth.md",
+      "source_sha256": "2a57db66ab8f7b52cbaccc6a134673a97fe7adb8c187744d1e8764a1233c4788",
+      "destination_sha256": "2a57db66ab8f7b52cbaccc6a134673a97fe7adb8c187744d1e8764a1233c4788"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Enclaves/Thuma'rei.md",
+      "destination": "Theia/Atlas/Enclaves/Thuma'rei.md",
+      "source_sha256": "f7235434af3c2b7532adeb6839d1693ddde56a6c342c74d8fea0055c69c39ada",
+      "destination_sha256": "f7235434af3c2b7532adeb6839d1693ddde56a6c342c74d8fea0055c69c39ada"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Enclaves/Veyr'athun.md",
+      "destination": "Theia/Atlas/Enclaves/Veyr'athun.md",
+      "source_sha256": "083c106d1e21a9cb99ac6a5c9a7bb0727aa6d51710824de71cc1990032a53f81",
+      "destination_sha256": "083c106d1e21a9cb99ac6a5c9a7bb0727aa6d51710824de71cc1990032a53f81"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Boughstead.md",
+      "destination": "Theia/Atlas/Places/Boughstead.md",
+      "source_sha256": "f69487b840c7d6a795f7df351cbf88c998f28e1b11f1b7c604701fc2282c958d",
+      "destination_sha256": "f69487b840c7d6a795f7df351cbf88c998f28e1b11f1b7c604701fc2282c958d"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Chainworks.md",
+      "destination": "Theia/Atlas/Places/Chainworks.md",
+      "source_sha256": "76604489606fd47ba0fc93e7316910b06ca7bfe095099f8720503aef2618e709",
+      "destination_sha256": "76604489606fd47ba0fc93e7316910b06ca7bfe095099f8720503aef2618e709"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Drom Kar.md",
+      "destination": "Theia/Atlas/Places/Drom Kar.md",
+      "source_sha256": "a85c18c433025360cf2f60bb5bf9d9b10dc9ed65d42e9572422c39f3aea3c575",
+      "destination_sha256": "a85c18c433025360cf2f60bb5bf9d9b10dc9ed65d42e9572422c39f3aea3c575"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Elderwood.md",
+      "destination": "Theia/Atlas/Places/Elderwood.md",
+      "source_sha256": "c44041e21b77c60fde85b354c7cf30ed263d98fff9fb7dbf888fbcfe4448c02d",
+      "destination_sha256": "c44041e21b77c60fde85b354c7cf30ed263d98fff9fb7dbf888fbcfe4448c02d"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Greyfall Quarry.md",
+      "destination": "Theia/Atlas/Places/Greyfall Quarry.md",
+      "source_sha256": "974e8c515b8d8c728ed8f8eb9cfa01f9468e7d746428a37c76e5a53aa62bbf40",
+      "destination_sha256": "974e8c515b8d8c728ed8f8eb9cfa01f9468e7d746428a37c76e5a53aa62bbf40"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Kar Durn.md",
+      "destination": "Theia/Atlas/Places/Kar Durn.md",
+      "source_sha256": "73a7b942ee01d68c97bb1f195aea679742137c8a995c1f42bc9de2fe1611a65c",
+      "destination_sha256": "73a7b942ee01d68c97bb1f195aea679742137c8a995c1f42bc9de2fe1611a65c"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Lantern Redoubt.md",
+      "destination": "Theia/Atlas/Places/Lantern Redoubt.md",
+      "source_sha256": "bd6170c896dc2f80283f29dd62166210ecb3841946726c8e5ed3b095ef4a14de",
+      "destination_sha256": "bd6170c896dc2f80283f29dd62166210ecb3841946726c8e5ed3b095ef4a14de"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Millhaven.md",
+      "destination": "Theia/Atlas/Places/Millhaven.md",
+      "source_sha256": "4b746f9ab304b98586ff5a091119d764dcf54bee3029221b90191e8f1414f500",
+      "destination_sha256": "4b746f9ab304b98586ff5a091119d764dcf54bee3029221b90191e8f1414f500"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Northwatch Landing.md",
+      "destination": "Theia/Atlas/Places/Northwatch Landing.md",
+      "source_sha256": "f1f6c39d7324113211711d186084e71e5940ba228f5407802236875d47bcd562",
+      "destination_sha256": "f1f6c39d7324113211711d186084e71e5940ba228f5407802236875d47bcd562"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Oth'irun archive approach.md",
+      "destination": "Theia/Atlas/Places/Oth'irun archive approach.md",
+      "source_sha256": "ffde639a278a7012ac8a8935d4c57986f80ac07feeeb360f497f1e214a8fb255",
+      "destination_sha256": "ffde639a278a7012ac8a8935d4c57986f80ac07feeeb360f497f1e214a8fb255"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Outer Passage site.md",
+      "destination": "Theia/Atlas/Places/Outer Passage site.md",
+      "source_sha256": "3fd97e56a8007cdf2f145ee840ddd6b9a121ea1bc5af0c38dce4fbf57726ba01",
+      "destination_sha256": "3fd97e56a8007cdf2f145ee840ddd6b9a121ea1bc5af0c38dce4fbf57726ba01"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Relay coast.md",
+      "destination": "Theia/Atlas/Places/Relay coast.md",
+      "source_sha256": "9278185a7853c95787fd37490daff8a341b8c8823b376bd5d970210995a1a8d5",
+      "destination_sha256": "9278185a7853c95787fd37490daff8a341b8c8823b376bd5d970210995a1a8d5"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Ridgewatch.md",
+      "destination": "Theia/Atlas/Places/Ridgewatch.md",
+      "source_sha256": "0818837b02e08d8fd03b4bd6f200cd68244fdf55b8fee565eca18da7a9609224",
+      "destination_sha256": "0818837b02e08d8fd03b4bd6f200cd68244fdf55b8fee565eca18da7a9609224"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Stoneford.md",
+      "destination": "Theia/Atlas/Places/Stoneford.md",
+      "source_sha256": "39c0c7e1eeb0435897700ebbe014a1b598d7d93b1ea6b5f952090648d958b3f4",
+      "destination_sha256": "39c0c7e1eeb0435897700ebbe014a1b598d7d93b1ea6b5f952090648d958b3f4"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Storm-coast depot.md",
+      "destination": "Theia/Atlas/Places/Storm-coast depot.md",
+      "source_sha256": "163cecf52334d05c13724931ae607c677f523ff52d74bd48ae43066a79b2af85",
+      "destination_sha256": "163cecf52334d05c13724931ae607c677f523ff52d74bd48ae43066a79b2af85"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Sylvaren.md",
+      "destination": "Theia/Atlas/Places/Sylvaren.md",
+      "source_sha256": "c6a97f25b9d11bc09412751c9712b10305eb02165bc00fd517c9fc720f053f47",
+      "destination_sha256": "c6a97f25b9d11bc09412751c9712b10305eb02165bc00fd517c9fc720f053f47"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Tidehold.md",
+      "destination": "Theia/Atlas/Places/Tidehold.md",
+      "source_sha256": "0fd8d336fc4c125cf92b64a7f68a0a2c285f9c10c4f45359213108362c4a2bdc",
+      "destination_sha256": "0fd8d336fc4c125cf92b64a7f68a0a2c285f9c10c4f45359213108362c4a2bdc"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Places/Valecrown.md",
+      "destination": "Theia/Atlas/Places/Valecrown.md",
+      "source_sha256": "edd71499c14933911485380974ccb10cd0fcb8cabf139308e878c8fb5f1f2ef4",
+      "destination_sha256": "edd71499c14933911485380974ccb10cd0fcb8cabf139308e878c8fb5f1f2ef4"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Settlement Services.md",
+      "destination": "Theia/Atlas/Settlement Services.md",
+      "source_sha256": "d68b3cf3453e5eeb0ad178514a23116f8f57defd862bae7d185958bff8969e4f",
+      "destination_sha256": "d68b3cf3453e5eeb0ad178514a23116f8f57defd862bae7d185958bff8969e4f"
+    },
+    {
+      "source": "docs/story/Theia/Atlas/Travel_and_Transport.md",
+      "destination": "Theia/Atlas/Travel_and_Transport.md",
+      "source_sha256": "5538fa4d28cd6b749361e1edebebb6646a0c2c529a319772535b78a01288c9b2",
+      "destination_sha256": "5538fa4d28cd6b749361e1edebebb6646a0c2c529a319772535b78a01288c9b2"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Aelari_1_20_NPC_Dialogue_Scripts.md",
+      "destination": "Theia/Campaigns/Aelari_1_20_NPC_Dialogue_Scripts.md",
+      "source_sha256": "e51924cbed0f2fe7b691d470b55e83c03591be2d73ee239707c1d0557de89f60",
+      "destination_sha256": "e51924cbed0f2fe7b691d470b55e83c03591be2d73ee239707c1d0557de89f60"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/CURRENT_HUMAN_CAMPAIGN.md",
+      "destination": "Theia/Campaigns/CURRENT_HUMAN_CAMPAIGN.md",
+      "source_sha256": "ae7ba27d47dcda82ef5648be963a508c585fac50f5eb148e43bafba931c5df25",
+      "destination_sha256": "f388c7fa47babbdd83a46698e6220c8527fdc58f6b0b3da03184e4c6c6cc59b9"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_10_20_NPC_Dialogue_Scripts.md",
+      "destination": "Theia/Campaigns/Human_10_20_NPC_Dialogue_Scripts.md",
+      "source_sha256": "e830193324fba3151342f99912512bb19d6728685216b47b08876ca4b53d25c3",
+      "destination_sha256": "e830193324fba3151342f99912512bb19d6728685216b47b08876ca4b53d25c3"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_1_10_NPC_Dialogue_Scripts.md",
+      "destination": "Theia/Campaigns/Human_1_10_NPC_Dialogue_Scripts.md",
+      "source_sha256": "d3cf35406c16e8cfc0595030cd5d5e4da2ba3aeda97a1016fe97ef1d270bebf3",
+      "destination_sha256": "d3cf35406c16e8cfc0595030cd5d5e4da2ba3aeda97a1016fe97ef1d270bebf3"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_1_10_Vertical_Slice_Implementation.md",
+      "destination": "Theia/Campaigns/Human_1_10_Vertical_Slice_Implementation.md",
+      "source_sha256": "c598d404316d98914b1f636f4a88e6c40a7f39b7142f343c6e3bd5db6c494439",
+      "destination_sha256": "c598d404316d98914b1f636f4a88e6c40a7f39b7142f343c6e3bd5db6c494439"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_1_80_Canonical_Campaign.md",
+      "destination": "Theia/Campaigns/Human_1_80_Canonical_Campaign.md",
+      "source_sha256": "bdcfd7e4dbac31c80307515c0b312cb72daef9a19bea883697ef21992cc00216",
+      "destination_sha256": "bdcfd7e4dbac31c80307515c0b312cb72daef9a19bea883697ef21992cc00216"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_1_80_Current_Quest_Authoring_Manifest.json",
+      "destination": "Theia/Campaigns/Human_1_80_Current_Quest_Authoring_Manifest.json",
+      "source_sha256": "230437275ed40495944e28b90e71f288015ac9ca41ec2c7f1650b8112bc7f1d7",
+      "destination_sha256": "230437275ed40495944e28b90e71f288015ac9ca41ec2c7f1650b8112bc7f1d7"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_1_80_Encounter_Barks_and_Cinematic_Timing.md",
+      "destination": "Theia/Campaigns/Human_1_80_Encounter_Barks_and_Cinematic_Timing.md",
+      "source_sha256": "0373c5b6c0229ddb9d31a313044fbb521b0b669c94e24c74b0a96ebacf82dc2c",
+      "destination_sha256": "0373c5b6c0229ddb9d31a313044fbb521b0b669c94e24c74b0a96ebacf82dc2c"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_1_80_Key_Scenes_Branching_Dialogue.md",
+      "destination": "Theia/Campaigns/Human_1_80_Key_Scenes_Branching_Dialogue.md",
+      "source_sha256": "3d269fd575a0a11707c917e2ecf494061b9266c0e1463bb2ac675589ef3d5cac",
+      "destination_sha256": "3d269fd575a0a11707c917e2ecf494061b9266c0e1463bb2ac675589ef3d5cac"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_1_80_Quest_Dependencies.json",
+      "destination": "Theia/Campaigns/Human_1_80_Quest_Dependencies.json",
+      "source_sha256": "cc050ec052c82ee39d38635da1eb5b49a85c1bf1dde29a50ee83d7fc68c6222c",
+      "destination_sha256": "cc050ec052c82ee39d38635da1eb5b49a85c1bf1dde29a50ee83d7fc68c6222c"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_1_80_Quest_Necessity_Decisions_Draft.json",
+      "destination": "Theia/Campaigns/Human_1_80_Quest_Necessity_Decisions_Draft.json",
+      "source_sha256": "ccfc15d1c2ea8a12741e1ce24b5ac6c2cdd130fd43d7888557c5056b24cb80e1",
+      "destination_sha256": "ccfc15d1c2ea8a12741e1ce24b5ac6c2cdd130fd43d7888557c5056b24cb80e1"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_20_30_NPC_Dialogue_Scripts.md",
+      "destination": "Theia/Campaigns/Human_20_30_NPC_Dialogue_Scripts.md",
+      "source_sha256": "c30156c10e2ae35ad227455e7fd34fec8fdb904dedb75702bffccf159222748c",
+      "destination_sha256": "c30156c10e2ae35ad227455e7fd34fec8fdb904dedb75702bffccf159222748c"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_30_35_NPC_Dialogue_Scripts.md",
+      "destination": "Theia/Campaigns/Human_30_35_NPC_Dialogue_Scripts.md",
+      "source_sha256": "9c1e8231d778bd5fbe34e85451e6fe0966b21585034f5e18fa2384a049eb3b79",
+      "destination_sha256": "9c1e8231d778bd5fbe34e85451e6fe0966b21585034f5e18fa2384a049eb3b79"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_35_45_NPC_Dialogue_Scripts.md",
+      "destination": "Theia/Campaigns/Human_35_45_NPC_Dialogue_Scripts.md",
+      "source_sha256": "3261863c46aa53472ceda33759ced21f8669fb1db0f5cf87737ca720f8af5185",
+      "destination_sha256": "3261863c46aa53472ceda33759ced21f8669fb1db0f5cf87737ca720f8af5185"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_45_55_NPC_Dialogue_Scripts.md",
+      "destination": "Theia/Campaigns/Human_45_55_NPC_Dialogue_Scripts.md",
+      "source_sha256": "84860ebe9903c5092d2a745076fbcdbd860a95dae9a89ec4aea3db6abe9e764a",
+      "destination_sha256": "84860ebe9903c5092d2a745076fbcdbd860a95dae9a89ec4aea3db6abe9e764a"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_55_70_NPC_Dialogue_Scripts.md",
+      "destination": "Theia/Campaigns/Human_55_70_NPC_Dialogue_Scripts.md",
+      "source_sha256": "cf81ed65c22f48966e32e70ac9c1c9c0ca99901558a6e3839a0280437cf16fe3",
+      "destination_sha256": "cf81ed65c22f48966e32e70ac9c1c9c0ca99901558a6e3839a0280437cf16fe3"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_70_80_NPC_Dialogue_Scripts.md",
+      "destination": "Theia/Campaigns/Human_70_80_NPC_Dialogue_Scripts.md",
+      "source_sha256": "f8f59253ebf5f1b702f8c39d3d7927e6925adbbe72b891cf897d35c230dc079d",
+      "destination_sha256": "f8f59253ebf5f1b702f8c39d3d7927e6925adbbe72b891cf897d35c230dc079d"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_80_Finale_NPC_Dialogue_Scripts.md",
+      "destination": "Theia/Campaigns/Human_80_Finale_NPC_Dialogue_Scripts.md",
+      "source_sha256": "d4769704cf6250960d87623fe3c7139f4304fde866c12b4fedfbb0fcef76baf0",
+      "destination_sha256": "d4769704cf6250960d87623fe3c7139f4304fde866c12b4fedfbb0fcef76baf0"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_Legacy_64_Exact_Title_Objective_Comparison.md",
+      "destination": "Theia/Campaigns/Human_Legacy_64_Exact_Title_Objective_Comparison.md",
+      "source_sha256": "b8a636808e4004a240410e5752b96bf9c7a616ab52f9668d5e2b5810bb0f9fb3",
+      "destination_sha256": "b8a636808e4004a240410e5752b96bf9c7a616ab52f9668d5e2b5810bb0f9fb3"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_Legacy_Sidequest_Zone_Character_Archive.md",
+      "destination": "Theia/Campaigns/Human_Legacy_Sidequest_Zone_Character_Archive.md",
+      "source_sha256": "295c4381f4d71f730fac48a64606d4940630ce047a999fb256b3dff7e3f99dbd",
+      "destination_sha256": "295c4381f4d71f730fac48a64606d4940630ce047a999fb256b3dff7e3f99dbd"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_Q001_Q017_Rust_Authoring_Review.md",
+      "destination": "Theia/Campaigns/Human_Q001_Q017_Rust_Authoring_Review.md",
+      "source_sha256": "075d382afcb5898588d535d72273b82bb6c4612508c5146368e983a33c468bd4",
+      "destination_sha256": "fab2fcc3b968f5416d73ca5bfaa0291fedbdcd01a3a1f65a9f0ceefb7931be48"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_Q018_Q034_Rust_Authoring_Review.md",
+      "destination": "Theia/Campaigns/Human_Q018_Q034_Rust_Authoring_Review.md",
+      "source_sha256": "8bb48d8f437a04668e0bee69bf39904d0ba10db60a7c64654446ef2f79ed0098",
+      "destination_sha256": "6ee987e5a796f545f72566cd2449bd92a8156ba1f85f750084cf97c705d93f61"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_Q035_Q062_Rust_Authoring_Review.md",
+      "destination": "Theia/Campaigns/Human_Q035_Q062_Rust_Authoring_Review.md",
+      "source_sha256": "8cb6cd5d3582c947e37a80276ff253ff90e79d2de1d41fdd63b418de7a2753e8",
+      "destination_sha256": "5a51e69a1ae265b91daaf9fbda4e0e3783bf042e1172c60c586040c0ebc243f8"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_Q063_Q079_Rust_Authoring_Review.md",
+      "destination": "Theia/Campaigns/Human_Q063_Q079_Rust_Authoring_Review.md",
+      "source_sha256": "0278233eca0036f4e9a6df5940ed44cd9415e190b1f0fa3b3438c1ea4a08e7b4",
+      "destination_sha256": "6c65607064fe68995f10745d5d8205060c6757cc4d91e898834cdd2580147ad0"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_Q080_Q103_Rust_Authoring_Review.md",
+      "destination": "Theia/Campaigns/Human_Q080_Q103_Rust_Authoring_Review.md",
+      "source_sha256": "c981f331bd250f81b807380ba82fbeb63956e20cae1ca263356a656584806b70",
+      "destination_sha256": "8b08e1a48e1a9590beb548d5fcd6ebfbfc765b01aae40b693b83e73917e94004"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_Q104_Q128_Rust_Authoring_Review.md",
+      "destination": "Theia/Campaigns/Human_Q104_Q128_Rust_Authoring_Review.md",
+      "source_sha256": "53f0f15e021986fae78a3a5333b25f0153c7f103fba51d2d4ddb37e2d2454f75",
+      "destination_sha256": "d1f3f78775670e8bb7457d6cb54bd49767810c15a981a431b481e111b9b294ae"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_Q129_Q157_Rust_Authoring_Review.md",
+      "destination": "Theia/Campaigns/Human_Q129_Q157_Rust_Authoring_Review.md",
+      "source_sha256": "ba38529dce35a44d490b62b0af78811ad0f8965015bd44da340f98037e1dfcdb",
+      "destination_sha256": "0dca545d231cc4582189d1bbca3a8b3b37077d9c56e727cb5169fcf1cb296107"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_Q158_Q184_Rust_Authoring_Review.md",
+      "destination": "Theia/Campaigns/Human_Q158_Q184_Rust_Authoring_Review.md",
+      "source_sha256": "ed6214e9a94c0af77ef226596eb75c672195530f40a8b4ea231474973ce1d842",
+      "destination_sha256": "20549846178ac2e6ff046487e1bb9f7d933e94dcad5a0b20fc10a79bc79a1cf4"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_Quest_Editorial_ID_Crosswalk_Draft.json",
+      "destination": "Theia/Campaigns/Human_Quest_Editorial_ID_Crosswalk_Draft.json",
+      "source_sha256": "2b11896a51ed58ae28023b17e149f1737b3b35672c0fabd111b81c8c5bbb4b96",
+      "destination_sha256": "2b11896a51ed58ae28023b17e149f1737b3b35672c0fabd111b81c8c5bbb4b96"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_Quest_Runtime_and_Enemy_AI_Contract.md",
+      "destination": "Theia/Campaigns/Human_Quest_Runtime_and_Enemy_AI_Contract.md",
+      "source_sha256": "615d41917a44c41aca7c7b68b7d6032abaca872e6e1b0649924a7a38968224bd",
+      "destination_sha256": "615d41917a44c41aca7c7b68b7d6032abaca872e6e1b0649924a7a38968224bd"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_Rust_Luau_Quest_Scripting_Boundary.md",
+      "destination": "Theia/Campaigns/Human_Rust_Luau_Quest_Scripting_Boundary.md",
+      "source_sha256": "d9b39f272c88a1c650a5ba5271504cb7038431f34e7f00402b9e4fba1d97dc3a",
+      "destination_sha256": "793c34df0878316579289a2f23002242ad545d31f388b824d6ffc86120d138eb"
+    },
+    {
+      "source": "docs/story/Theia/Campaigns/Human_Rust_Quest_Authoring_Contract.md",
+      "destination": "Theia/Campaigns/Human_Rust_Quest_Authoring_Contract.md",
+      "source_sha256": "17dbd4048362fd242906337cf2697ddc0c95bd98d5726c2f21e6fe65133b75d1",
+      "destination_sha256": "8d2e755646c901ad3d6ca2049526219f94990089143f91583e61aeeffa562a6f"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Aru'ven.md",
+      "destination": "Theia/Characters/Campaign Cast/Aru'ven.md",
+      "source_sha256": "c1c53fa0de34fe73c0fd859de786110244abe780c9efc179d7af7b90239026da",
+      "destination_sha256": "c1c53fa0de34fe73c0fd859de786110244abe780c9efc179d7af7b90239026da"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Avariel.md",
+      "destination": "Theia/Characters/Campaign Cast/Avariel.md",
+      "source_sha256": "3ab7d8c9a018d70a91718e048034d69aeb2d7a9c16a73c8994887ca663fb3022",
+      "destination_sha256": "3ab7d8c9a018d70a91718e048034d69aeb2d7a9c16a73c8994887ca663fb3022"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Brenna Holt.md",
+      "destination": "Theia/Characters/Campaign Cast/Brenna Holt.md",
+      "source_sha256": "65a772c1b0e44913f422b8d265fdd02e7baa3274e674527d8314d3cf0ab15f15",
+      "destination_sha256": "65a772c1b0e44913f422b8d265fdd02e7baa3274e674527d8314d3cf0ab15f15"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Brynja Flintwake.md",
+      "destination": "Theia/Characters/Campaign Cast/Brynja Flintwake.md",
+      "source_sha256": "43f21245edb79974a3396a5c7aab99270de8709019eafe880df50b5e1f6f5c38",
+      "destination_sha256": "43f21245edb79974a3396a5c7aab99270de8709019eafe880df50b5e1f6f5c38"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Caelith Rowan.md",
+      "destination": "Theia/Characters/Campaign Cast/Caelith Rowan.md",
+      "source_sha256": "2ef62d3e63abc4bae9ddf4412ad8aef04aa0a53a848d256bf6b5d18cafe9fe7b",
+      "destination_sha256": "2ef62d3e63abc4bae9ddf4412ad8aef04aa0a53a848d256bf6b5d18cafe9fe7b"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Captain Edrin.md",
+      "destination": "Theia/Characters/Campaign Cast/Captain Edrin.md",
+      "source_sha256": "d2255ad115eebc652f962e510ac160990739f5eb06b2b422635f74de606b877f",
+      "destination_sha256": "d2255ad115eebc652f962e510ac160990739f5eb06b2b422635f74de606b877f"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Captain Rukhan Graal.md",
+      "destination": "Theia/Characters/Campaign Cast/Captain Rukhan Graal.md",
+      "source_sha256": "d4574fc134164790e4325e62760e02771495059dc5eb14921be046760ddb3f0c",
+      "destination_sha256": "d4574fc134164790e4325e62760e02771495059dc5eb14921be046760ddb3f0c"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Commander Nessa Ward.md",
+      "destination": "Theia/Characters/Campaign Cast/Commander Nessa Ward.md",
+      "source_sha256": "5f8202e76676e6fe93f9057afa83885020d48106f7f701d0646758ddacf2c71c",
+      "destination_sha256": "5f8202e76676e6fe93f9057afa83885020d48106f7f701d0646758ddacf2c71c"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Corven Vaelmont.md",
+      "destination": "Theia/Characters/Campaign Cast/Corven Vaelmont.md",
+      "source_sha256": "8009b7ad5c11eb0e171b93c57775b113c16aeadf5f4710a3aca4b4b094727b34",
+      "destination_sha256": "8009b7ad5c11eb0e171b93c57775b113c16aeadf5f4710a3aca4b4b094727b34"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Darian Cole.md",
+      "destination": "Theia/Characters/Campaign Cast/Darian Cole.md",
+      "source_sha256": "fc92c72147b4b5960a8b022c52fc5c415c4ccbc68b3b858272634f149bed0ec2",
+      "destination_sha256": "fc92c72147b4b5960a8b022c52fc5c415c4ccbc68b3b858272634f149bed0ec2"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Edda Flintwake.md",
+      "destination": "Theia/Characters/Campaign Cast/Edda Flintwake.md",
+      "source_sha256": "fe1fa4bfbbf3c0fe9a2dea6bf363d571a885e530d9208d4a8fa0fd135058606b",
+      "destination_sha256": "fe1fa4bfbbf3c0fe9a2dea6bf363d571a885e530d9208d4a8fa0fd135058606b"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Elara Fenwick.md",
+      "destination": "Theia/Characters/Campaign Cast/Elara Fenwick.md",
+      "source_sha256": "3883ef40a7cfee3a855fd3451bd51889c7493983dba8167091d5cf3b5d56ff98",
+      "destination_sha256": "3883ef40a7cfee3a855fd3451bd51889c7493983dba8167091d5cf3b5d56ff98"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Faerun.md",
+      "destination": "Theia/Characters/Campaign Cast/Faerun.md",
+      "source_sha256": "25b250c887e0504675f525896eb14eee04282d50ce432fba396507d2255030f8",
+      "destination_sha256": "25b250c887e0504675f525896eb14eee04282d50ce432fba396507d2255030f8"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/First Elder Dromak.md",
+      "destination": "Theia/Characters/Campaign Cast/First Elder Dromak.md",
+      "source_sha256": "342205ca1ce38fda576bccf9111c12f5c687883b199790f81dcafa97ca3e3c0e",
+      "destination_sha256": "342205ca1ce38fda576bccf9111c12f5c687883b199790f81dcafa97ca3e3c0e"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Garrick Ashford.md",
+      "destination": "Theia/Characters/Campaign Cast/Garrick Ashford.md",
+      "source_sha256": "4fbc867b8d1e4998d770815d084a66c573a82d20afe88caae703dd9472863b90",
+      "destination_sha256": "4fbc867b8d1e4998d770815d084a66c573a82d20afe88caae703dd9472863b90"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Halden Marr.md",
+      "destination": "Theia/Characters/Campaign Cast/Halden Marr.md",
+      "source_sha256": "534d31fb77e363a2a0dcaea8bf80e87da446a229f8d9adc35bd80a337e6ab638",
+      "destination_sha256": "534d31fb77e363a2a0dcaea8bf80e87da446a229f8d9adc35bd80a337e6ab638"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Halvek Dorn.md",
+      "destination": "Theia/Characters/Campaign Cast/Halvek Dorn.md",
+      "source_sha256": "60dcc9033489d76a753211522d5558b6a6b555cb65731e95ddf1169154272861",
+      "destination_sha256": "60dcc9033489d76a753211522d5558b6a6b555cb65731e95ddf1169154272861"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Heddan Pike.md",
+      "destination": "Theia/Characters/Campaign Cast/Heddan Pike.md",
+      "source_sha256": "56d4e817ba88c3a01025e2054e26b43541c845d2a55da6127cbb093957ae3a0e",
+      "destination_sha256": "56d4e817ba88c3a01025e2054e26b43541c845d2a55da6127cbb093957ae3a0e"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/High Thane Bromund Stonevein.md",
+      "destination": "Theia/Characters/Campaign Cast/High Thane Bromund Stonevein.md",
+      "source_sha256": "d9d07de3b01c290e0fefc458c05e33a44fbbffa52256b0f901911d3c9a836445",
+      "destination_sha256": "d9d07de3b01c290e0fefc458c05e33a44fbbffa52256b0f901911d3c9a836445"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Ilyen.md",
+      "destination": "Theia/Characters/Campaign Cast/Ilyen.md",
+      "source_sha256": "1fd365ac71d69b672579156bd5fe0b718c9f1195d42e5969ca471ef77ffe2773",
+      "destination_sha256": "1fd365ac71d69b672579156bd5fe0b718c9f1195d42e5969ca471ef77ffe2773"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Ilyss Varen.md",
+      "destination": "Theia/Characters/Campaign Cast/Ilyss Varen.md",
+      "source_sha256": "10bcc5251cb77830c439d1d5b9d8aa5c2fc85269af4b96c63db30c3344bba5e6",
+      "destination_sha256": "10bcc5251cb77830c439d1d5b9d8aa5c2fc85269af4b96c63db30c3344bba5e6"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Irielle Mossward.md",
+      "destination": "Theia/Characters/Campaign Cast/Irielle Mossward.md",
+      "source_sha256": "4df13bda7ee5a00f46654e4e4a4fb7411e0c309d4aa4094f4644ff839adcd3ff",
+      "destination_sha256": "4df13bda7ee5a00f46654e4e4a4fb7411e0c309d4aa4094f4644ff839adcd3ff"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Iven Rusk.md",
+      "destination": "Theia/Characters/Campaign Cast/Iven Rusk.md",
+      "source_sha256": "6c636fb7727a56e4f52de2f34f48ba04b92ccd1a7b98acf1ac7a7874911824dd",
+      "destination_sha256": "6c636fb7727a56e4f52de2f34f48ba04b92ccd1a7b98acf1ac7a7874911824dd"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Joss Arden.md",
+      "destination": "Theia/Characters/Campaign Cast/Joss Arden.md",
+      "source_sha256": "ff444f285383bca347f2791d53bb6386f2838e6d688a81afd60d025c3addca5c",
+      "destination_sha256": "ff444f285383bca347f2791d53bb6386f2838e6d688a81afd60d025c3addca5c"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/King Aldren Vaelmont.md",
+      "destination": "Theia/Characters/Campaign Cast/King Aldren Vaelmont.md",
+      "source_sha256": "96e430e6adf7eee11ac9111ff5ba6311aaea2aa68104883935212a2cbe734d38",
+      "destination_sha256": "96e430e6adf7eee11ac9111ff5ba6311aaea2aa68104883935212a2cbe734d38"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Leth'ari.md",
+      "destination": "Theia/Characters/Campaign Cast/Leth'ari.md",
+      "source_sha256": "641d81e8d9b0168ad5d6c26105807cca755152c37a8e92bc869f6fc7b563e8ac",
+      "destination_sha256": "641d81e8d9b0168ad5d6c26105807cca755152c37a8e92bc869f6fc7b563e8ac"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Lethiel.md",
+      "destination": "Theia/Characters/Campaign Cast/Lethiel.md",
+      "source_sha256": "fa3ad713aa4d36e35dcbbd276bb5db9186731a9316b43de5a943946b68a88aca",
+      "destination_sha256": "fa3ad713aa4d36e35dcbbd276bb5db9186731a9316b43de5a943946b68a88aca"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Lieutenant Corra Baines.md",
+      "destination": "Theia/Characters/Campaign Cast/Lieutenant Corra Baines.md",
+      "source_sha256": "59d59fcf7111c4f890e435e17e3a7f27726e824c4810d56afe566c1fe24ec931",
+      "destination_sha256": "59d59fcf7111c4f890e435e17e3a7f27726e824c4810d56afe566c1fe24ec931"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Lord Cassian Veyr.md",
+      "destination": "Theia/Characters/Campaign Cast/Lord Cassian Veyr.md",
+      "source_sha256": "baf3953a883f21cc7e9183381bb2040999ab291e907471358b088891c10d87b3",
+      "destination_sha256": "baf3953a883f21cc7e9183381bb2040999ab291e907471358b088891c10d87b3"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Lord Edric Halewyn.md",
+      "destination": "Theia/Characters/Campaign Cast/Lord Edric Halewyn.md",
+      "source_sha256": "86af8c44709c07e6830bc7dbd2749af46a567cae42b4409a287f90961ade5cb9",
+      "destination_sha256": "86af8c44709c07e6830bc7dbd2749af46a567cae42b4409a287f90961ade5cb9"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Lysa Marden.md",
+      "destination": "Theia/Characters/Campaign Cast/Lysa Marden.md",
+      "source_sha256": "f457fe2c3fb349522ed84b12657318b29260181e7244261639dcc4d4a6ff93c2",
+      "destination_sha256": "f457fe2c3fb349522ed84b12657318b29260181e7244261639dcc4d4a6ff93c2"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Maelin Voss.md",
+      "destination": "Theia/Characters/Campaign Cast/Maelin Voss.md",
+      "source_sha256": "0f9ab204b4f849fa1f59f788f48bc066e613516421ce4d0acdba2cdb36124762",
+      "destination_sha256": "0f9ab204b4f849fa1f59f788f48bc066e613516421ce4d0acdba2cdb36124762"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Maerin.md",
+      "destination": "Theia/Characters/Campaign Cast/Maerin.md",
+      "source_sha256": "7060b258501d24cd2912d77a1e6beb9ad0e02f14a41a55e4d17369c59c4b45dc",
+      "destination_sha256": "7060b258501d24cd2912d77a1e6beb9ad0e02f14a41a55e4d17369c59c4b45dc"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Mara Thorne.md",
+      "destination": "Theia/Characters/Campaign Cast/Mara Thorne.md",
+      "source_sha256": "990c5614c8e3c809382c7a341b0a48d650ad78eed53c4b096bcb13ccce8040c5",
+      "destination_sha256": "990c5614c8e3c809382c7a341b0a48d650ad78eed53c4b096bcb13ccce8040c5"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Master Oren Bell.md",
+      "destination": "Theia/Characters/Campaign Cast/Master Oren Bell.md",
+      "source_sha256": "28c80da223bb8cc2f9479a8d1fbc5ac388852824eefdc420c9bbccda4eb910b3",
+      "destination_sha256": "28c80da223bb8cc2f9479a8d1fbc5ac388852824eefdc420c9bbccda4eb910b3"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Mera Reed.md",
+      "destination": "Theia/Characters/Campaign Cast/Mera Reed.md",
+      "source_sha256": "0de194846ee4074e188bea05aa7f7c594568432a62259795f1e7e357483a48e7",
+      "destination_sha256": "0de194846ee4074e188bea05aa7f7c594568432a62259795f1e7e357483a48e7"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Nemi Brindlewick.md",
+      "destination": "Theia/Characters/Campaign Cast/Nemi Brindlewick.md",
+      "source_sha256": "455581b3f4740e39e9617b20317cd4cbb1cf782ec8456bab91cb5882c9a52959",
+      "destination_sha256": "455581b3f4740e39e9617b20317cd4cbb1cf782ec8456bab91cb5882c9a52959"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Nera Holt.md",
+      "destination": "Theia/Characters/Campaign Cast/Nera Holt.md",
+      "source_sha256": "dfebe57762c95073b0283ff59623d55c5459428dc1a8ed7d390c2156bfa876e3",
+      "destination_sha256": "dfebe57762c95073b0283ff59623d55c5459428dc1a8ed7d390c2156bfa876e3"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Neris.md",
+      "destination": "Theia/Characters/Campaign Cast/Neris.md",
+      "source_sha256": "991902120ee165b81e5c1e7ef27321ba5e7db706a5b7676024805aabcfc1b002",
+      "destination_sha256": "991902120ee165b81e5c1e7ef27321ba5e7db706a5b7676024805aabcfc1b002"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Nivelle.md",
+      "destination": "Theia/Characters/Campaign Cast/Nivelle.md",
+      "source_sha256": "00e4a9c65407d64798bb4af26558b353c56fb28348e5cb4bc09322b5afd7908e",
+      "destination_sha256": "00e4a9c65407d64798bb4af26558b353c56fb28348e5cb4bc09322b5afd7908e"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Perrin Vale.md",
+      "destination": "Theia/Characters/Campaign Cast/Perrin Vale.md",
+      "source_sha256": "10883c849c44fd73c2cf23e6592df7fc4a8341e41c910f87d48436f8f995331c",
+      "destination_sha256": "10883c849c44fd73c2cf23e6592df7fc4a8341e41c910f87d48436f8f995331c"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Queen Seralyth.md",
+      "destination": "Theia/Characters/Campaign Cast/Queen Seralyth.md",
+      "source_sha256": "e49c106174aec80fad7ee19489375306f90b0c01c0bfdb9c0b21965607e2ef33",
+      "destination_sha256": "e49c106174aec80fad7ee19489375306f90b0c01c0bfdb9c0b21965607e2ef33"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Rennel.md",
+      "destination": "Theia/Characters/Campaign Cast/Rennel.md",
+      "source_sha256": "65682cf8bd3a0492751831279e1e6e28909e49ebe7e64fd2d6542271611214be",
+      "destination_sha256": "65682cf8bd3a0492751831279e1e6e28909e49ebe7e64fd2d6542271611214be"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Rhael.md",
+      "destination": "Theia/Characters/Campaign Cast/Rhael.md",
+      "source_sha256": "e13088733bd017651e3bc56218e850f16e0ffefd5397cc797d9347315e967cbb",
+      "destination_sha256": "e13088733bd017651e3bc56218e850f16e0ffefd5397cc797d9347315e967cbb"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Rurik Anvilmark.md",
+      "destination": "Theia/Characters/Campaign Cast/Rurik Anvilmark.md",
+      "source_sha256": "9c330a159aae551f5cdcf5a5bd1b5096090eafe9f685d0462f3789a2b9d4bcbe",
+      "destination_sha256": "9c330a159aae551f5cdcf5a5bd1b5096090eafe9f685d0462f3789a2b9d4bcbe"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Saela.md",
+      "destination": "Theia/Characters/Campaign Cast/Saela.md",
+      "source_sha256": "836e9a385c0e579e403dd6e9cd1657a1c5709b1cbf88c8536fc10b9430e59128",
+      "destination_sha256": "836e9a385c0e579e403dd6e9cd1657a1c5709b1cbf88c8536fc10b9430e59128"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Sareth Keld.md",
+      "destination": "Theia/Characters/Campaign Cast/Sareth Keld.md",
+      "source_sha256": "4a139970e44cd03122762847d157647cb74affd269a10359e7a0f7b5f05f7f8e",
+      "destination_sha256": "4a139970e44cd03122762847d157647cb74affd269a10359e7a0f7b5f05f7f8e"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Sel'ora.md",
+      "destination": "Theia/Characters/Campaign Cast/Sel'ora.md",
+      "source_sha256": "3726744b8f114960ad9cb9fb3be2d28c30131054d860b4040eed0e882af59e40",
+      "destination_sha256": "3726744b8f114960ad9cb9fb3be2d28c30131054d860b4040eed0e882af59e40"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Sera Venn.md",
+      "destination": "Theia/Characters/Campaign Cast/Sera Venn.md",
+      "source_sha256": "ee693fe098ec08032f895048406d182db66ca2fc8f2310c33ae3f31dcf12fc0d",
+      "destination_sha256": "ee693fe098ec08032f895048406d182db66ca2fc8f2310c33ae3f31dcf12fc0d"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Sireth.md",
+      "destination": "Theia/Characters/Campaign Cast/Sireth.md",
+      "source_sha256": "c935958cd084d7534655a2fa2412af32a25974768967523a5e566c02301b1cd5",
+      "destination_sha256": "c935958cd084d7534655a2fa2412af32a25974768967523a5e566c02301b1cd5"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Sister Anwen.md",
+      "destination": "Theia/Characters/Campaign Cast/Sister Anwen.md",
+      "source_sha256": "e72fed5566ed16b90d61f504b85af8464b4e040b95c118ff484a2bc139753ad2",
+      "destination_sha256": "e72fed5566ed16b90d61f504b85af8464b4e040b95c118ff484a2bc139753ad2"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Talan.md",
+      "destination": "Theia/Characters/Campaign Cast/Talan.md",
+      "source_sha256": "dc13b5b03f15c2b5b37beafe1ba1a63ce3ef22d3de8559de9e793ebc77560236",
+      "destination_sha256": "dc13b5b03f15c2b5b37beafe1ba1a63ce3ef22d3de8559de9e793ebc77560236"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Tarek Oss.md",
+      "destination": "Theia/Characters/Campaign Cast/Tarek Oss.md",
+      "source_sha256": "2e746017cfe604675f639cb1b54288eecad953f210f72c2fa909bec26aebcad5",
+      "destination_sha256": "2e746017cfe604675f639cb1b54288eecad953f210f72c2fa909bec26aebcad5"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Teren Malrec.md",
+      "destination": "Theia/Characters/Campaign Cast/Teren Malrec.md",
+      "source_sha256": "8823b56e4cd3a5068e30b3b7ceaf59f544e84390b1e4fbcf1a03769132cefa87",
+      "destination_sha256": "8823b56e4cd3a5068e30b3b7ceaf59f544e84390b1e4fbcf1a03769132cefa87"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Thaelis.md",
+      "destination": "Theia/Characters/Campaign Cast/Thaelis.md",
+      "source_sha256": "ef8c2ef85dc129c940b56359e102ccd17de5b36fee88f1b12bf8968f85ee7b20",
+      "destination_sha256": "ef8c2ef85dc129c940b56359e102ccd17de5b36fee88f1b12bf8968f85ee7b20"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Tomas Greymere.md",
+      "destination": "Theia/Characters/Campaign Cast/Tomas Greymere.md",
+      "source_sha256": "657762ab2723b97a3889820540e5cb6052a32a394ad9ee776693e20f5b4771b1",
+      "destination_sha256": "657762ab2723b97a3889820540e5cb6052a32a394ad9ee776693e20f5b4771b1"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Urodan.md",
+      "destination": "Theia/Characters/Campaign Cast/Urodan.md",
+      "source_sha256": "3ae39b8a51d6ac3201bf4c2e5cb7c5ea05d9fbe162d290de645049f50c82a90c",
+      "destination_sha256": "3ae39b8a51d6ac3201bf4c2e5cb7c5ea05d9fbe162d290de645049f50c82a90c"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Varric Sorn.md",
+      "destination": "Theia/Characters/Campaign Cast/Varric Sorn.md",
+      "source_sha256": "e2c0ba71cca9b4829865da32a263b06ecaf105cd89aa01181097c7f47a26bb89",
+      "destination_sha256": "e2c0ba71cca9b4829865da32a263b06ecaf105cd89aa01181097c7f47a26bb89"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Veylan Istren.md",
+      "destination": "Theia/Characters/Campaign Cast/Veylan Istren.md",
+      "source_sha256": "257661fc12a4df86fbb69aa0acf971b0865649012f440e4ee08fa3d294e3b42e",
+      "destination_sha256": "257661fc12a4df86fbb69aa0acf971b0865649012f440e4ee08fa3d294e3b42e"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Veyrien.md",
+      "destination": "Theia/Characters/Campaign Cast/Veyrien.md",
+      "source_sha256": "95dcf19a1f31df4d6139ce0e10daadd3ba519b4e3343ee3c0fc65e3a3e5def66",
+      "destination_sha256": "95dcf19a1f31df4d6139ce0e10daadd3ba519b4e3343ee3c0fc65e3a3e5def66"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Warden Shorvek Tal.md",
+      "destination": "Theia/Characters/Campaign Cast/Warden Shorvek Tal.md",
+      "source_sha256": "85cfce0521ffcb04feb6670b386bce45e3c3e076b35adf15e3fe0037794f915a",
+      "destination_sha256": "85cfce0521ffcb04feb6670b386bce45e3c3e076b35adf15e3fe0037794f915a"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Campaign Cast/Ysra Keel.md",
+      "destination": "Theia/Characters/Campaign Cast/Ysra Keel.md",
+      "source_sha256": "8c5c9d6d615e77dc84bb56fea75af04523de1e34c8213f04d3ee055f8576e429",
+      "destination_sha256": "8c5c9d6d615e77dc84bb56fea75af04523de1e34c8213f04d3ee055f8576e429"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Characters.md",
+      "destination": "Theia/Characters/Characters.md",
+      "source_sha256": "0db645a17fef014269b2fb1077cca646bad65e3f4a9cf2da54a9589980a7745f",
+      "destination_sha256": "0db645a17fef014269b2fb1077cca646bad65e3f4a9cf2da54a9589980a7745f"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Divine/Aethyr.md",
+      "destination": "Theia/Characters/Divine/Aethyr.md",
+      "source_sha256": "f37ababd061469162e1070b26792478bb9543686ab863ee9ecf316dc8a6f0ac5",
+      "destination_sha256": "f37ababd061469162e1070b26792478bb9543686ab863ee9ecf316dc8a6f0ac5"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Divine/Nhal.md",
+      "destination": "Theia/Characters/Divine/Nhal.md",
+      "source_sha256": "735425c5450d5e8d2ddb395afe0f45aa3397f19009084172639f566375a8a399",
+      "destination_sha256": "735425c5450d5e8d2ddb395afe0f45aa3397f19009084172639f566375a8a399"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Divine/The Ascendant.md",
+      "destination": "Theia/Characters/Divine/The Ascendant.md",
+      "source_sha256": "3ba3d26eba47dcb98a2712c889a2bef2e43396edf835c7f93731cb92b01c3876",
+      "destination_sha256": "3ba3d26eba47dcb98a2712c889a2bef2e43396edf835c7f93731cb92b01c3876"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Divine/The Guardian.md",
+      "destination": "Theia/Characters/Divine/The Guardian.md",
+      "source_sha256": "f2997b936da152e1bdd149b51579e5893d270f866cc19c17124a674eda15a396",
+      "destination_sha256": "f2997b936da152e1bdd149b51579e5893d270f866cc19c17124a674eda15a396"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Divine/The Judge.md",
+      "destination": "Theia/Characters/Divine/The Judge.md",
+      "source_sha256": "068cd8cb51d2e259df9e8d99f02219aff6d486fb0b35a8908e7996c9a5ffa6a0",
+      "destination_sha256": "068cd8cb51d2e259df9e8d99f02219aff6d486fb0b35a8908e7996c9a5ffa6a0"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Divine/The Keeper.md",
+      "destination": "Theia/Characters/Divine/The Keeper.md",
+      "source_sha256": "c69a7b78f3a464faac5b8fd5298e19b6f3adff93d6d1a9f8639c98828725adea",
+      "destination_sha256": "c69a7b78f3a464faac5b8fd5298e19b6f3adff93d6d1a9f8639c98828725adea"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Divine/The Seeker.md",
+      "destination": "Theia/Characters/Divine/The Seeker.md",
+      "source_sha256": "44726e032e6411be49b83fbcef91fe76ec32f8e0ec8c336f6a315934836d7452",
+      "destination_sha256": "44726e032e6411be49b83fbcef91fe76ec32f8e0ec8c336f6a315934836d7452"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Divine/The Shaper.md",
+      "destination": "Theia/Characters/Divine/The Shaper.md",
+      "source_sha256": "7bcb0119dadc6effe0e20859988cb25adc9f009a3e9c96955bc7e6b27ce32185",
+      "destination_sha256": "7bcb0119dadc6effe0e20859988cb25adc9f009a3e9c96955bc7e6b27ce32185"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Divine/The Warrior.md",
+      "destination": "Theia/Characters/Divine/The Warrior.md",
+      "source_sha256": "cdcd6f22819318bf1ab63b718ba9d8ea6cafc88c54019c17d80319bbe91e2ccb",
+      "destination_sha256": "cdcd6f22819318bf1ab63b718ba9d8ea6cafc88c54019c17d80319bbe91e2ccb"
+    },
+    {
+      "source": "docs/story/Theia/Characters/First Archon Selrion.md",
+      "destination": "Theia/Characters/First Archon Selrion.md",
+      "source_sha256": "132a05b3f3e30670db99be8a1a6b34f6976c1af3f9b84abf97fb945366c1962f",
+      "destination_sha256": "132a05b3f3e30670db99be8a1a6b34f6976c1af3f9b84abf97fb945366c1962f"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Khor'vun.md",
+      "destination": "Theia/Characters/Khor'vun.md",
+      "source_sha256": "56e0bdee2c433f93dcbdbaff72c7ef746d85e5ea236bb65200d14591ab0a64f6",
+      "destination_sha256": "56e0bdee2c433f93dcbdbaff72c7ef746d85e5ea236bb65200d14591ab0a64f6"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Oma'vira.md",
+      "destination": "Theia/Characters/Oma'vira.md",
+      "source_sha256": "13b2992500e1634e2f298f654e55cccd3da0599ec295ab6def4ae8e6c82d55f2",
+      "destination_sha256": "13b2992500e1634e2f298f654e55cccd3da0599ec295ab6def4ae8e6c82d55f2"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Oth'varen.md",
+      "destination": "Theia/Characters/Oth'varen.md",
+      "source_sha256": "c53be04c555fcf5071ae31e78ca141bd7e86c86863d6e944a52346423317b5cc",
+      "destination_sha256": "46a3a5f887a967e1ab52add76f0e0ecee8dad3aa58255a82bca0c45525946425"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Services/Adra Pell.md",
+      "destination": "Theia/Characters/Services/Adra Pell.md",
+      "source_sha256": "00f3d12a3ffecc354a826794630bb1c4d08a9909dd2fea8d1d885ca5195d7449",
+      "destination_sha256": "00f3d12a3ffecc354a826794630bb1c4d08a9909dd2fea8d1d885ca5195d7449"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Services/Cal Norr.md",
+      "destination": "Theia/Characters/Services/Cal Norr.md",
+      "source_sha256": "5f2f37b2d5c2114f9accd590f703a1f027e01fa284b016f0b8fc4ae6b88fca6c",
+      "destination_sha256": "5f2f37b2d5c2114f9accd590f703a1f027e01fa284b016f0b8fc4ae6b88fca6c"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Services/Evin Reed.md",
+      "destination": "Theia/Characters/Services/Evin Reed.md",
+      "source_sha256": "b1b9f5f06090a2743aa1327b6a8074beec3c5859fae9ff6cb0f9a7eed084f0b6",
+      "destination_sha256": "b1b9f5f06090a2743aa1327b6a8074beec3c5859fae9ff6cb0f9a7eed084f0b6"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Services/Joric Hale.md",
+      "destination": "Theia/Characters/Services/Joric Hale.md",
+      "source_sha256": "2460ba38abb461c4e756c38b5da1020a39d6e6884882847f6dcf93216e8243c3",
+      "destination_sha256": "2460ba38abb461c4e756c38b5da1020a39d6e6884882847f6dcf93216e8243c3"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Services/Marta Venn.md",
+      "destination": "Theia/Characters/Services/Marta Venn.md",
+      "source_sha256": "d4cd5459d5d2499e6228b712664bbdd9c6600ec62e150d9b46fd3c27e7592e1a",
+      "destination_sha256": "d4cd5459d5d2499e6228b712664bbdd9c6600ec62e150d9b46fd3c27e7592e1a"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Services/Oda Flint.md",
+      "destination": "Theia/Characters/Services/Oda Flint.md",
+      "source_sha256": "5cdc20917ccf2d13f467c77fc47afc337a2ab61caff57d449a185cde1cb1f274",
+      "destination_sha256": "5cdc20917ccf2d13f467c77fc47afc337a2ab61caff57d449a185cde1cb1f274"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Services/Sabren Holt.md",
+      "destination": "Theia/Characters/Services/Sabren Holt.md",
+      "source_sha256": "d7de8b977be4a5f3d7f3a88e83608812a54fe118d206ffda5802f7d99d44bf93",
+      "destination_sha256": "d7de8b977be4a5f3d7f3a88e83608812a54fe118d206ffda5802f7d99d44bf93"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Services/Sella Marr.md",
+      "destination": "Theia/Characters/Services/Sella Marr.md",
+      "source_sha256": "af0f71111ca527cc4cd3bfea23f2fecf81f74797add484d2c2d7aba6465bc708",
+      "destination_sha256": "af0f71111ca527cc4cd3bfea23f2fecf81f74797add484d2c2d7aba6465bc708"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Services/Torren Vale.md",
+      "destination": "Theia/Characters/Services/Torren Vale.md",
+      "source_sha256": "bdfd1843479f42443f5fecb6b957f8b656fdd98ac24dc192b7c9d56b48d83c2a",
+      "destination_sha256": "bdfd1843479f42443f5fecb6b957f8b656fdd98ac24dc192b7c9d56b48d83c2a"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Su'vareth.md",
+      "destination": "Theia/Characters/Su'vareth.md",
+      "source_sha256": "c305c0327d89b1ddf01478dab778e93cc682fc2db05d3f3ff7efd06ce980b175",
+      "destination_sha256": "c305c0327d89b1ddf01478dab778e93cc682fc2db05d3f3ff7efd06ce980b175"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Thes'var.md",
+      "destination": "Theia/Characters/Thes'var.md",
+      "source_sha256": "dc8bb411ccdfc4a5032d81ec4b9d84681920b74e50dc0d197054aab8dc6d89ca",
+      "destination_sha256": "dc8bb411ccdfc4a5032d81ec4b9d84681920b74e50dc0d197054aab8dc6d89ca"
+    },
+    {
+      "source": "docs/story/Theia/Characters/Vaer'uun.md",
+      "destination": "Theia/Characters/Vaer'uun.md",
+      "source_sha256": "15cfff3c8efaef06138bb6959a6f4908827f337ed3b787c28d94424aa3270377",
+      "destination_sha256": "15cfff3c8efaef06138bb6959a6f4908827f337ed3b787c28d94424aa3270377"
+    },
+    {
+      "source": "docs/story/Theia/History/Events/Age of Reconstruction.md",
+      "destination": "Theia/History/Events/Age of Reconstruction.md",
+      "source_sha256": "a060ce3ff209152ca38607e5aaaafd8b09fbfd1f77ea58c615153f3c4eea22ce",
+      "destination_sha256": "a060ce3ff209152ca38607e5aaaafd8b09fbfd1f77ea58c615153f3c4eea22ce"
+    },
+    {
+      "source": "docs/story/Theia/History/Events/Age of Silence and Anchor Network Development.md",
+      "destination": "Theia/History/Events/Age of Silence and Anchor Network Development.md",
+      "source_sha256": "f2af015eb784a6aa0f0205d6226bdf9ddee466364fb988b84d703dbee6ce1abb",
+      "destination_sha256": "f2af015eb784a6aa0f0205d6226bdf9ddee466364fb988b84d703dbee6ce1abb"
+    },
+    {
+      "source": "docs/story/Theia/History/Events/Awakening of the Seven.md",
+      "destination": "Theia/History/Events/Awakening of the Seven.md",
+      "source_sha256": "341f2e5b751843f6ffc73324c6731f05e1711f9587c5f0b467ba9d44d9d75b15",
+      "destination_sha256": "341f2e5b751843f6ffc73324c6731f05e1711f9587c5f0b467ba9d44d9d75b15"
+    },
+    {
+      "source": "docs/story/Theia/History/Events/Creation of the Kel'vari.md",
+      "destination": "Theia/History/Events/Creation of the Kel'vari.md",
+      "source_sha256": "79ff5c0eb36e787d25fc0197efebdb2acc6cdc1474484786aabc4e6387238a66",
+      "destination_sha256": "79ff5c0eb36e787d25fc0197efebdb2acc6cdc1474484786aabc4e6387238a66"
+    },
+    {
+      "source": "docs/story/Theia/History/Events/Divine Schism.md",
+      "destination": "Theia/History/Events/Divine Schism.md",
+      "source_sha256": "f4aca4f43f673330110858b52bd09d47cf5930a168894103b521594fe66e7a85",
+      "destination_sha256": "f4aca4f43f673330110858b52bd09d47cf5930a168894103b521594fe66e7a85"
+    },
+    {
+      "source": "docs/story/Theia/History/Events/Divine War.md",
+      "destination": "Theia/History/Events/Divine War.md",
+      "source_sha256": "d6625bb7cb9dfbd48a45a9be05b361a4d883d49b70008ba93703428a79de0b48",
+      "destination_sha256": "d6625bb7cb9dfbd48a45a9be05b361a4d883d49b70008ba93703428a79de0b48"
+    },
+    {
+      "source": "docs/story/Theia/History/Events/First Resonance.md",
+      "destination": "Theia/History/Events/First Resonance.md",
+      "source_sha256": "ecaa32c03b844b0159f0e88eea3465d88654bda1ddb25e9d60b936a9f54a805f",
+      "destination_sha256": "ecaa32c03b844b0159f0e88eea3465d88654bda1ddb25e9d60b936a9f54a805f"
+    },
+    {
+      "source": "docs/story/Theia/History/Events/First Sundering.md",
+      "destination": "Theia/History/Events/First Sundering.md",
+      "source_sha256": "3c5f4307f8307de4ce0ce39476d2bd31d2cf561f2539fda160ae0bcc11cf97be",
+      "destination_sha256": "3c5f4307f8307de4ce0ce39476d2bd31d2cf561f2539fda160ae0bcc11cf97be"
+    },
+    {
+      "source": "docs/story/Theia/History/Events/Mortal Creation.md",
+      "destination": "Theia/History/Events/Mortal Creation.md",
+      "source_sha256": "b6f12f0c2d2d110711ec21ec56d0cac00fd8d3277b9787c7993ee80b740af4fc",
+      "destination_sha256": "b6f12f0c2d2d110711ec21ec56d0cac00fd8d3277b9787c7993ee80b740af4fc"
+    },
+    {
+      "source": "docs/story/Theia/History/Events/Network Threshold and Modern Awakening.md",
+      "destination": "Theia/History/Events/Network Threshold and Modern Awakening.md",
+      "source_sha256": "67d085cb46b8ddaae6bf38ff550083af1d32abc9957b1ccac2c629218ebcc65b",
+      "destination_sha256": "67d085cb46b8ddaae6bf38ff550083af1d32abc9957b1ccac2c629218ebcc65b"
+    },
+    {
+      "source": "docs/story/Theia/History/Events/Second Sundering.md",
+      "destination": "Theia/History/Events/Second Sundering.md",
+      "source_sha256": "2a8cd3631410e4972bb839cb984a7603e128a0a79dda751b02c81c30b4628e25",
+      "destination_sha256": "2a8cd3631410e4972bb839cb984a7603e128a0a79dda751b02c81c30b4628e25"
+    },
+    {
+      "source": "docs/story/Theia/History/Events/Shattered Delegation.md",
+      "destination": "Theia/History/Events/Shattered Delegation.md",
+      "source_sha256": "8209a29969100740e27353f798c85b866f0b6207e97a36d07549e8ad1eb4223c",
+      "destination_sha256": "8209a29969100740e27353f798c85b866f0b6207e97a36d07549e8ad1eb4223c"
+    },
+    {
+      "source": "docs/story/Theia/History/Events/The Binding.md",
+      "destination": "Theia/History/Events/The Binding.md",
+      "source_sha256": "43091a621707f5ebbaa9fe971e93928c73ea21705caa55503b974066310f913a",
+      "destination_sha256": "43091a621707f5ebbaa9fe971e93928c73ea21705caa55503b974066310f913a"
+    },
+    {
+      "source": "docs/story/Theia/History/Historical Timeline.md",
+      "destination": "Theia/History/Historical Timeline.md",
+      "source_sha256": "ea3fc6046576a8f83c0ca233611240c0dc4eb3eeef11add994b167a282d51cbc",
+      "destination_sha256": "ea3fc6046576a8f83c0ca233611240c0dc4eb3eeef11add994b167a282d51cbc"
+    },
+    {
+      "source": "docs/story/Theia/History/Memory Scenes.md",
+      "destination": "Theia/History/Memory Scenes.md",
+      "source_sha256": "790b309ee61be5c4304722af75a47909f555e75e2e22a79203b8cb4d4e193025",
+      "destination_sha256": "790b309ee61be5c4304722af75a47909f555e75e2e22a79203b8cb4d4e193025"
+    },
+    {
+      "source": "docs/story/Theia/History/The Binding and its Aftermath.md",
+      "destination": "Theia/History/The Binding and its Aftermath.md",
+      "source_sha256": "678868dd07cb218d2f6e0ff17019f09de736a38607f95feedfed99205dd8337e",
+      "destination_sha256": "678868dd07cb218d2f6e0ff17019f09de736a38607f95feedfed99205dd8337e"
+    },
+    {
+      "source": "docs/story/Theia/History/The Six Reunited.md",
+      "destination": "Theia/History/The Six Reunited.md",
+      "source_sha256": "64953d51f04923b988e7d9b26ec8e7d1dccc3da1efa03f853524987b9fa9c7ec",
+      "destination_sha256": "64953d51f04923b988e7d9b26ec8e7d1dccc3da1efa03f853524987b9fa9c7ec"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Anchors and the Shroud.md",
+      "destination": "Theia/Lore/Anchors and the Shroud.md",
+      "source_sha256": "a010008adc73466dcd32c45693ac6415b2bb62b18cc666106eac99368496eaa8",
+      "destination_sha256": "a010008adc73466dcd32c45693ac6415b2bb62b18cc666106eac99368496eaa8"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Divine and Mortal History.md",
+      "destination": "Theia/Lore/Divine and Mortal History.md",
+      "source_sha256": "a59ab9db4d8438ad4b84d60a7229f5b758a3391ae7c96888702baaf69e9fe727",
+      "destination_sha256": "a59ab9db4d8438ad4b84d60a7229f5b758a3391ae7c96888702baaf69e9fe727"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Institutions/Covenant.md",
+      "destination": "Theia/Lore/Institutions/Covenant.md",
+      "source_sha256": "bcf50aab6f22ad5265994647bbac71364475a76d9756e04d21120b5a0032cd99",
+      "destination_sha256": "bcf50aab6f22ad5265994647bbac71364475a76d9756e04d21120b5a0032cd99"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Institutions/Dominion.md",
+      "destination": "Theia/Lore/Institutions/Dominion.md",
+      "source_sha256": "3392d12c18bb0d75609b0826d2afa412e8eb172f3638a0956462eca7fd513d82",
+      "destination_sha256": "3392d12c18bb0d75609b0826d2afa412e8eb172f3638a0956462eca7fd513d82"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Institutions/The Corrupted Conclave.md",
+      "destination": "Theia/Lore/Institutions/The Corrupted Conclave.md",
+      "source_sha256": "25a1ba774c485c3f813b8e300e2763f33a5924d4c7a6002e8aea8b625959b0d9",
+      "destination_sha256": "25a1ba774c485c3f813b8e300e2763f33a5924d4c7a6002e8aea8b625959b0d9"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Institutions/The Guardians.md",
+      "destination": "Theia/Lore/Institutions/The Guardians.md",
+      "source_sha256": "66b7a73ce534f5bbf85f6aaf5cd5769de1187642abe570f509e3d8221067d8ea",
+      "destination_sha256": "66b7a73ce534f5bbf85f6aaf5cd5769de1187642abe570f509e3d8221067d8ea"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Institutions/The Unmade.md",
+      "destination": "Theia/Lore/Institutions/The Unmade.md",
+      "source_sha256": "526f1463b86095c393f6f55e2ee61778062c730f39ee22a69fcd43f1bd7e9367",
+      "destination_sha256": "526f1463b86095c393f6f55e2ee61778062c730f39ee22a69fcd43f1bd7e9367"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Lore and World.md",
+      "destination": "Theia/Lore/Lore and World.md",
+      "source_sha256": "507de58c7edd40168ebf457293e6656d2336d15780791dbf2ed0ebfe3314e34a",
+      "destination_sha256": "507de58c7edd40168ebf457293e6656d2336d15780791dbf2ed0ebfe3314e34a"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Magic.md",
+      "destination": "Theia/Lore/Magic.md",
+      "source_sha256": "a0d7a5d61ba90d1ac0686b48bad22633f592b255d283b92e4b0ad18a5b256c03",
+      "destination_sha256": "a0d7a5d61ba90d1ac0686b48bad22633f592b255d283b92e4b0ad18a5b256c03"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Orders and Hidden Conflict.md",
+      "destination": "Theia/Lore/Orders and Hidden Conflict.md",
+      "source_sha256": "0dcf44007e77962f9f2bf9ec38d275219dffeedb7a4f39b685412833bddf188f",
+      "destination_sha256": "0dcf44007e77962f9f2bf9ec38d275219dffeedb7a4f39b685412833bddf188f"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Oth'vaeri.md",
+      "destination": "Theia/Lore/Oth'vaeri.md",
+      "source_sha256": "f3d1ee6c4e912f1cccf4514a6a0dada14adbe97602a8f4973c2b46d26d719db8",
+      "destination_sha256": "f3d1ee6c4e912f1cccf4514a6a0dada14adbe97602a8f4973c2b46d26d719db8"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Passage Gates.md",
+      "destination": "Theia/Lore/Passage Gates.md",
+      "source_sha256": "916e9a125e604bce378c8778375ac2eadf125c58a93cca982f730eac47ae458c",
+      "destination_sha256": "916e9a125e604bce378c8778375ac2eadf125c58a93cca982f730eac47ae458c"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Peoples and Allegiances.md",
+      "destination": "Theia/Lore/Peoples and Allegiances.md",
+      "source_sha256": "a8ed9928cc0f3db1e9b1d416476c10ebaf4ba01ccba6880226495199a5870911",
+      "destination_sha256": "a8ed9928cc0f3db1e9b1d416476c10ebaf4ba01ccba6880226495199a5870911"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Peoples/Aelari.md",
+      "destination": "Theia/Lore/Peoples/Aelari.md",
+      "source_sha256": "126ccf338165ec00e93947c0bb7451085f4996ec639db8c40541d2ca5c9ccf9a",
+      "destination_sha256": "126ccf338165ec00e93947c0bb7451085f4996ec639db8c40541d2ca5c9ccf9a"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Peoples/Dwarves.md",
+      "destination": "Theia/Lore/Peoples/Dwarves.md",
+      "source_sha256": "aa5b05df3386ee1f643d6eeacf756e7ddc4cbbbd2ada6cc1d37802f934ba8577",
+      "destination_sha256": "aa5b05df3386ee1f643d6eeacf756e7ddc4cbbbd2ada6cc1d37802f934ba8577"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Peoples/Halflings.md",
+      "destination": "Theia/Lore/Peoples/Halflings.md",
+      "source_sha256": "e9c743712af9e0bbc995c1b79efb16c095fb39fe70ed1e3c152105f7165494ca",
+      "destination_sha256": "e9c743712af9e0bbc995c1b79efb16c095fb39fe70ed1e3c152105f7165494ca"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Peoples/Humans.md",
+      "destination": "Theia/Lore/Peoples/Humans.md",
+      "source_sha256": "5c70f0d64035f019e6abb1c740c585e3d6303a83cd8af8ee2174c69136e8f101",
+      "destination_sha256": "5c70f0d64035f019e6abb1c740c585e3d6303a83cd8af8ee2174c69136e8f101"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Peoples/Kel'vari.md",
+      "destination": "Theia/Lore/Peoples/Kel'vari.md",
+      "source_sha256": "ddf68cacdfee6f2ed1f8905a7812f8b27b2eee64834d566869db3decbcc23dc1",
+      "destination_sha256": "ddf68cacdfee6f2ed1f8905a7812f8b27b2eee64834d566869db3decbcc23dc1"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Peoples/Korrath.md",
+      "destination": "Theia/Lore/Peoples/Korrath.md",
+      "source_sha256": "38595cb7abfd2961cbb85e8797c9853ec89c49e9261e0a5611ca1554e3ce3af9",
+      "destination_sha256": "38595cb7abfd2961cbb85e8797c9853ec89c49e9261e0a5611ca1554e3ce3af9"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Peoples/Orcs.md",
+      "destination": "Theia/Lore/Peoples/Orcs.md",
+      "source_sha256": "3d3d3bca2f4321cf772bdc74bd225bb3f5ee52a7c52595fc9974e6aa6e1b0637",
+      "destination_sha256": "3d3d3bca2f4321cf772bdc74bd225bb3f5ee52a7c52595fc9974e6aa6e1b0637"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Peoples/Vaelari.md",
+      "destination": "Theia/Lore/Peoples/Vaelari.md",
+      "source_sha256": "fece57c779064c0220b71e8fc54ab7d8a5843e44814598d0a36c8f08914fdb52",
+      "destination_sha256": "fece57c779064c0220b71e8fc54ab7d8a5843e44814598d0a36c8f08914fdb52"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Peoples/Vorrath.md",
+      "destination": "Theia/Lore/Peoples/Vorrath.md",
+      "source_sha256": "c3e7a77e9aac8174c3afa679326601289625577731b256ef318f0a36d69f63dc",
+      "destination_sha256": "c3e7a77e9aac8174c3afa679326601289625577731b256ef318f0a36d69f63dc"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Primordial Cosmology.md",
+      "destination": "Theia/Lore/Primordial Cosmology.md",
+      "source_sha256": "ef5a01282815369a53c7b8305defc72804867776983c33139e447c07c99d5f3f",
+      "destination_sha256": "ef5a01282815369a53c7b8305defc72804867776983c33139e447c07c99d5f3f"
+    },
+    {
+      "source": "docs/story/Theia/Lore/Resonance Inversion.md",
+      "destination": "Theia/Lore/Resonance Inversion.md",
+      "source_sha256": "361dc78af9584a8b95741cadab4db46d2402a0fda335f20f5bc9fe324d525807",
+      "destination_sha256": "361dc78af9584a8b95741cadab4db46d2402a0fda335f20f5bc9fe324d525807"
+    },
+    {
+      "source": "docs/story/Theia/Lore/The Seven Gods.md",
+      "destination": "Theia/Lore/The Seven Gods.md",
+      "source_sha256": "ce7ddbd0c8ef6da5116baccb59d21b7175bf1e14f887cf2590e4bdeb3a49d755",
+      "destination_sha256": "ce7ddbd0c8ef6da5116baccb59d21b7175bf1e14f887cf2590e4bdeb3a49d755"
+    },
+    {
+      "source": "docs/story/Theia/Lore/World Population.md",
+      "destination": "Theia/Lore/World Population.md",
+      "source_sha256": "4976a8ce5e3001ffe9182991025674cc8abba8067ae63b34593e3459e753474b",
+      "destination_sha256": "4976a8ce5e3001ffe9182991025674cc8abba8067ae63b34593e3459e753474b"
+    }
+  ]
+}
